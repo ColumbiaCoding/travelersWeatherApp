@@ -10,7 +10,7 @@ var fiveDayHeaderEl = document.querySelector(".five-day");
 var fiveDayEl = document.querySelector(".five-day-body");
 var weatherStatusEl = document.querySelector(".weather-status");
 var trashEl = document.querySelector("#trash");
-var ownApiWeather = "f97301447cbd41068af8623a398ba1fb";
+var ownApiWeather = "9a416b3b0fea4d6e4f9dca421a3b8b21";
 
 var formSubmit = function (event) {
   event.preventDefault();
